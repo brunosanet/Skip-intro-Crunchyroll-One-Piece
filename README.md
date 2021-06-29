@@ -1,4 +1,4 @@
-# SkipIntroCrunchyRoll
+#Skip intro Crunchyroll One Piece 
 Extensão do firefox para pular a introdução dos episódios de One Piece
 
 Versão do Firefox: 49 ou superior

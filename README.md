@@ -13,7 +13,7 @@ Como instalar:
 5. Selecione "Ferramentas para todas as extensões > Depurar extensões"
 6. Clique no botão "Carregar extensão temporária"
 7. Selecione o arquivo "SkipIntroCrunchyroll.js"
-8. Vá para a página do episódio do anime que deseja assistir e quando a pagina carregar o script irá pular a introdução (trilha de abertura e resumo do capitulo anterior) 
+8. Vá para a página do episódio do anime One Piece que deseja assistir e quando a pagina carregar o script irá pular a introdução (trilha de abertura e resumo do capitulo anterior) 
 
 
 

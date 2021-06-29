@@ -1,0 +1,24 @@
+{
+
+  "manifest_version": 2,
+  "name": "Skip intro Crunchyroll",
+  "version": "1.0",
+
+  "description": "Posiciona vídeo no início do episódio e deixa a tela full screen",
+
+   "icons": {
+    "48": "icons/SikpIntroCrunchroll.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.crunchyroll.com/*"],
+      "js": ["SkipIntroCrunchyroll.js"]
+    }
+  ],
+  
+  "permissions": [  
+  "*://*.crunchyroll.com/*","*://v.vrv.co/*","webRequest", "downloads", "downloads.open"
+]
+
+}
